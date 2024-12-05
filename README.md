@@ -2,6 +2,8 @@
 ---
 ## Live Interview Cycle
 
+**Group 1:1 and proceed**
+
 Each live test is limited to a maximum of 30 minutes.
 * **Tue, 7am: 1. Implementing a data structure**
 * **Fri, 7am: 2. Solving an algorithm problem with a data structure**
