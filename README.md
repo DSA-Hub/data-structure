@@ -1,5 +1,3 @@
-# data-structure
-
 ## Live Interview Cycle
 
 Each live test is limited to a maximum of 30 minutes.
@@ -85,8 +83,8 @@ Each live test is limited to a maximum of 30 minutes.
 #### How to Contribute?
 
 1. `Fork` the remote repository to your repository.
-2. `clone` the forked your remote repository to local.
-3. `add`, `commit` (following the convention), `push`.
+2. `clone` your forked remote repository to local.
+3. `add` -> `commit` (following the convention) -> `push [your forked remote repository]`.
 4. Create a `pull request` to the forked remote repository.
 
 Afterwards, the administrator of the forked remote repository will merge the changes.
