@@ -64,7 +64,7 @@ github_id/data-structure_name/ds or ps/filename.java
 #### Pull Request Rule
 
 name, data-structure_name, ds or ps (ds:data structure/ps: problem solving)
-`
+
 1. `john park, stack, ds`
 2. `john park, stack, ps`
 
