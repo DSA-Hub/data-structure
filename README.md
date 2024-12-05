@@ -1,3 +1,5 @@
+# Data Structure
+---
 ## Live Interview Cycle
 
 Each live test is limited to a maximum of 30 minutes.
@@ -49,35 +51,22 @@ Each live test is limited to a maximum of 30 minutes.
 
 #### Repository Folder Structure 
 
-**Rule**
-1. `github_id/data_structure_name/ds/file_name.java`
-2. `github_id/data_structure_name/ps/file_name.java`
+github_id/data-structure_name/ds or ps/filename.java
 
-**Example**
 1. `devjohnpark/stack/ds/class_name.java`
 2. `devjohnpark/stack/ps/class_name.java`
 
-
 #### Commit Convention
 
-**Rule**
-1. `git commit -m "[data_structure_name] implementation data_structure_name"`
-2. `git commit -m "[data_structure_name] solving problem using data_structure_name"`
-
-**Example**
 1. `git commit -m "[Stack] implementation stack"`
 2. `git commit -m "[Stack] solving problem using stack"`
 
-
 #### Pull Request Rule
 
-**Rule**
-1. `name / data-structure_name / ds (data structure)`
-2. `name / data-structure_name / ps (problem solving)`
-
-**Example**
-1. `john park / stack / ds`
-2. `john park / stack / ps`
+name, data-structure_name, ds or ps (ds:data structure/ps: problem solving)
+`
+1. `john park, stack, ds`
+2. `john park, stack, ps`
 
 
 #### How to Contribute?
