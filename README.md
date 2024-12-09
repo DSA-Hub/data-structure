@@ -12,14 +12,14 @@ github id/data structure name/ps/platform/problem number.java
 #### Commit Convention
 
 ```bash
-"[platform] data structure name/problem number/problem name/e" 
+"[platform] data structure name/problem number/problem name" 
 ```
 * ex) `git commit -m "[LTC] Stack/20/Valid Parentheses"`
 
 #### Pull Request Rule
 
 ```bash
-your name, data structure name, ps, problem_level
+your name, data structure name, ps, problem level
 ```
 * ex)  `john park, stack, ps, easy`
 
