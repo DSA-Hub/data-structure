@@ -10,9 +10,9 @@
 #### Repository Folder Structure 
 
 ```bash
-github id/data structure name/ps/platform/idea_project_name
+github id/data structure name/ps/platform/
 ```
-* ex) `devjohnpark/stack/ps/leetcode/idea_project_name`
+* ex) `devjohnpark/stack/ps/leetcode/`
 
 #### Commit Convention
 
