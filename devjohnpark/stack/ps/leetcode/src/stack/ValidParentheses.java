@@ -2,7 +2,7 @@ package stack;
 
 import java.util.Stack;
 
-// 20
+// 20. Valid Parentheses
 public class ValidParentheses {
     // Problem
     // Is include in String same type brackets like {}. (), []?
